@@ -1,0 +1,13 @@
+{
+    "Id": "Raykin.RACCooN",
+    "PackPath": "Raykin.RACCooN.pck",
+    "Dependencies": [
+        "Sulayre.Lure"
+    ],
+    "Metadata": {
+        "Name": "RACCooN",
+        "Description": "Raykin's Absurd Cosmetics Collection or other 'Necessities': a WIP cosmetics mod no one asked for! You install thing! You see thing! You ask "why you make this??" I go on long acoustic guitar soul searching montage through woods for answer. I come back, I say: "idk lol"",
+        "Author": "raykin-loves-you",
+        "Version": "0.67.69"
+    }
+}
